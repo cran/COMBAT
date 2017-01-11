@@ -1,0 +1,9 @@
+import(mvtnorm)
+import(corpcor)
+export(
+	ext_simes,
+	gates,
+	vegas,
+	COMBAT
+)
+importFrom('stats','cor','pchisq','qchisq')
