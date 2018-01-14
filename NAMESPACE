@@ -4,6 +4,8 @@ export(
 	ext_simes,
 	gates,
 	vegas,
-	COMBAT
+	COMBAT,
+	simpleM,
+	ld.Rsquare
 )
 importFrom('stats','cor','pchisq','qchisq')
